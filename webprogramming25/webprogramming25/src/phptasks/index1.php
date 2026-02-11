@@ -49,6 +49,8 @@
         <a href="aboutus.php">About Us</a>
         <a href="contactus.php">Contact Us</a>
         <a href="ex1.php">ex1</a>
+        <a href="ex3.php">ex3</a>
+        <a href="ex4.php">ex4</a>
     </nav>
 </header>
 
